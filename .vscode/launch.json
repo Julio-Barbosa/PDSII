@@ -5,12 +5,12 @@
             "name": "C++ Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/c/Users/Windows/OneDrive - Universidade Federal de Minas Gerais/UFMG/2024-2/PDSII/bin/main",
+            "program": "/mnt/c/Users/Windows/OneDrive/UFMG/2024-2/PDSII/bin/main",
             "args": [
                 "-fThreading"
             ],
             "stopAtEntry": false,
-            "cwd": "/mnt/c/Users/Windows/OneDrive - Universidade Federal de Minas Gerais/UFMG/2024-2/PDSII/",
+            "cwd": "/mnt/c/Users/Windows/OneDrive/UFMG/2024-2/PDSII/",
             "environment": [],
             "externalConsole": true,
             "windows": {
