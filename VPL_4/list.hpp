@@ -1,12 +1,9 @@
-// Você *NÃO* deve alterar esse arquivo
+
 #ifndef LIST_H
 #define LIST_H
 
 #include <iostream>
-
 #include "node.hpp"
-
-using namespace std;
 
 struct List {
     Node* head = nullptr;
